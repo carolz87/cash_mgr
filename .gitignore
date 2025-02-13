@@ -1,1 +1,9 @@
-.venv
+# Cache
+venv
+__pycache__/*
+
+# Estudos
+database_Creation.js
+
+# Segurança 
+.env
